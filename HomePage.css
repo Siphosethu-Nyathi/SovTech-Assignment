@@ -1,0 +1,41 @@
+.HomePage {
+    text-align: center;
+}
+
+.HomePage-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.introduction #h1-style {
+    color: whitesmoke;
+}
+
+b {
+    color:aqua;
+}
+
+.introduction #h2-style {
+    color:aquamarine;
+}
+
+.about-me #h3-style {
+    font-weight: bold;
+}
+
+.why-SovTech #h4-style {
+    font-weight: bold;
+
+}
+
+.why-SovTech #h5-style  {
+    color: aqua;
+    font-weight: bold;
+    font-size: larger;
+}
+
